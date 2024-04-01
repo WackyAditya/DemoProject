@@ -1,1 +1,1 @@
-I am here in SCM class
+This is a readme file.
